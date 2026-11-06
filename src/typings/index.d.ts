@@ -1,4 +1,5 @@
 /// <reference types="@dcloudio/types" />
+/// <reference types="miniprogram-api-typings" />
 /// <reference path="./uni.d.ts" />
 /// <reference path="./platform.d.ts" />
 /// <reference path="./window.d.ts" />
