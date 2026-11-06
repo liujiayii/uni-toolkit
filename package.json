@@ -76,7 +76,7 @@
   },
   "dependencies": {
     "es-toolkit": "^1.52.0",
-    "miniprogram-api-typings": "^5.2.3"
+    "miniprogram-api-typings": "^5.3.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^9.3.0",
