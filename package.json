@@ -75,7 +75,8 @@
     "deploy": "pnpm run docs:build && gh-pages -d docs/.vitepress/dist --add"
   },
   "dependencies": {
-    "es-toolkit": "^1.52.0"
+    "es-toolkit": "^1.52.0",
+    "miniprogram-api-typings": "^5.2.3"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^9.3.0",
