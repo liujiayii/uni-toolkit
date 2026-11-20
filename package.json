@@ -79,7 +79,7 @@
     "miniprogram-api-typings": "^5.2.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^9.3.0",
+    "@antfu/eslint-config": "^9.5.1",
     "@changesets/changelog-github": "^1.0.1",
     "@changesets/cli": "^3.0.2",
     "@dcloudio/types": "^3.4.32",
